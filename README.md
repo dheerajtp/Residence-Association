@@ -2,13 +2,13 @@
 
 A Static Single Page Reponsive Website Demo With Contact Form Created Using HTMOL, CSS, Bootstrap
 
-**Things Used In This Project**
+**Things Used In This Project**\
 
 [Bootstrap](https://getbootstrap.com/)
 [TypewriterJS](https://safi.me.uk/typewriterjs/)
 [Web3forms](https://web3forms.com/)
 
-**DEMO**
+**DEMO**\
 [Residence Association](https://dheerajtp.github.io/Residence-Association/)
 
 **Screen Shot**
