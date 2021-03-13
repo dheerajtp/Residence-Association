@@ -1,6 +1,6 @@
 **Residence Association**
 
-A Static Single Page Reponsive Website Demo With Contact Form Created Using HTMOL, CSS, Bootstrap
+A Static Single Page Reponsive Website Demo With Contact Form Created Using HTML, CSS, Bootstrap
 
 **Things Used In This Project** <br>
 
